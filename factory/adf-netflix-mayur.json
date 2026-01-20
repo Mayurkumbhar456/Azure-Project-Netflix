@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-mayur",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f879a61-ffb9-42c2-a6c2-35a40eb16039",
+		"tenantId": "dc591e9b-0edb-4d4c-a983-c83bdbbd57cb"
+	}
+}
