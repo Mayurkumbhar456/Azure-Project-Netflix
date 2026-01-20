@@ -1,5 +1,6 @@
 # 🚀 End-to-End Data Engineering Pipeline on Azure Databricks
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📌 Project Overview
 This project demonstrates a production-grade Data Engineering solution built on **Microsoft Azure** and **Databricks**. It implements a Lakehouse architecture to ingest, process, and analyze large-scale datasets (e.g., Netflix/Spotify data) using modern Data Engineering practices.
